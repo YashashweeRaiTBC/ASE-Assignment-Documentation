@@ -301,6 +301,96 @@
       "version": ""
     },
     {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.AppArrayTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.AppArrayTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.AppCanvasTest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.AppCanvasTest.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.AppForTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.AppForTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.AppIfTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.AppIfTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.AppIntTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.AppIntTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.AppMethodTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.AppMethodTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.AppRealTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.AppRealTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.AppWhileTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.AppWhileTests.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/ASE_Assignment_Test.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/ASE_Assignment_Test.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Toc",
       "source_relative_path": "api/toc.yml",
       "output": {
